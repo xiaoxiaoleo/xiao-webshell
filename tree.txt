@@ -1,0 +1,645 @@
+.
+├── Ashx
+│   ├── readme.txt
+│   └── shell.ashx
+├── asp_php_jsp_aspx_max
+│   ├── asp_silic_asp_shell.asp
+│   ├── aspxjspphp三剑客
+│   │   ├── 2011.jpg.php
+│   │   ├── ASPXspy2.aspx
+│   │   ├── index4.aspx
+│   │   ├── JspSpyJDK5.jsp
+│   │   └── JspSpy.jsp
+│   ├── DAws-master.zip
+│   ├── JSP
+│   │   ├── about.jsp
+│   │   └── theme.jsp
+│   ├── phpsilic_PHP_shell
+│   │   ├── help.php
+│   │   ├── Silic Webshell V5.1.docx
+│   │   ├── template_Silic.php
+│   │   └── V5.1版本说明.txt
+│   ├── silic_shell.jsp
+│   ├── template.aspx
+│   ├── template.jsp
+│   └── 三剑客aspx迷你版
+│       └── template.aspx
+├── Caidao
+│   ├── caidao-20141213
+│   │   ├── caidao.exe
+│   │   ├── CCC
+│   │   │   ├── aspRwWithJMail.ccc
+│   │   │   ├── aspSpy.ccc
+│   │   │   ├── aspx.ccc
+│   │   │   ├── php.ccc
+│   │   │   └── phpSpy.ccc
+│   │   ├── Customize
+│   │   │   ├── Customize.aspx
+│   │   │   ├── Customize.cfm
+│   │   │   └── Customize.jsp
+│   │   └── readme.txt
+│   ├── caidao20160620-fake
+│   │   ├── caidao.conf
+│   │   ├── caidao.exe
+│   │   ├── CCC
+│   │   │   ├── aspRwWithJMail.ccc
+│   │   │   ├── aspSpy.ccc
+│   │   │   ├── aspx.ccc
+│   │   │   ├── php.ccc
+│   │   │   └── phpSpy.ccc
+│   │   ├── Customize
+│   │   │   ├── Customize.aspx
+│   │   │   ├── Customize.cfm
+│   │   │   └── Customize.jsp
+│   │   ├── ip.dat
+│   │   └── readme.txt
+│   ├── 菜刀2010
+│   │   ├── cache.tmp
+│   │   ├── chopper.exe
+│   │   ├── Customize
+│   │   │   ├── Customize.aspx
+│   │   │   ├── Customize.cfm
+│   │   │   └── Customize.jsp
+│   │   ├── readme.txt
+│   │   └── Script
+│   │       ├── 3389.ccc
+│   │       ├── asp3389.ccc
+│   │       ├── asp.ccc
+│   │       ├── aspportscan.ccc
+│   │       ├── aspRwWithJMail.ccc
+│   │       ├── aspSpy.ccc
+│   │       ├── aspx.ccc
+│   │       ├── Aspx文件搜索.ccc
+│   │       ├── Aspx设置权限.ccc
+│   │       ├── Asp执行命令.ccc
+│   │       ├── asp目录写权限检测.ccc
+│   │       ├── ASP读终端端口.ccc
+│   │       ├── bin-iisspy.ccc
+│   │       ├── cmd_过一流监控.ccc
+│   │       ├── iisspyencode.ccc
+│   │       ├── php3389.ccc
+│   │       ├── php.ccc
+│   │       ├── php_HTTP代理.ccc
+│   │       ├── phpportscan.ccc
+│   │       ├── phpspy2011.ccc
+│   │       ├── phpSpy.ccc
+│   │       ├── PHP批量挂马.ccc
+│   │       ├── php端口转向.ccc
+│   │       ├── portscan.ccc
+│   │       ├── server.cfm
+│   │       ├── server.jsp
+│   │       └── 扫描端口_php.ccc
+│   └── 菜刀201111
+│       ├── caidao.exe
+│       ├── CCC
+│       │   ├── aspRwWithJMail.ccc
+│       │   ├── aspSpy.ccc
+│       │   ├── aspx.ccc
+│       │   ├── php.ccc
+│       │   └── phpSpy.ccc
+│       ├── Customize
+│       │   ├── Customize.aspx
+│       │   ├── Customize.cfm
+│       │   └── Customize.jsp
+│       └── readme.txt
+├── Caidao-like
+│   ├── ASPX一句话shell客户端
+│   │   ├── AspxClient.exe
+│   │   ├── ASPX一句话shell客户端.pdf
+│   │   ├── CnCerT.CCdoor.Client.Serverinfor.dll
+│   │   ├── CnCerT.CCdoor.Client.win.Compress.dll
+│   │   ├── CnCerT.CCdoor.Client.win.dll
+│   │   ├── CnCerT.CCdoor.Client.win.Infor.dll
+│   │   ├── CnCerT.CCdoor.Client.win.MS08-067.dll
+│   │   ├── CnCerT.CCdoor.Client.win.Port.dll
+│   │   ├── CnCerT.CCdoor.Client.win.SearchWrite.dll
+│   │   ├── CnCerT.Log.dll
+│   │   ├── myshell.mdb
+│   │   ├── remoter
+│   │   │   ├── CnCerT.CCdoor.Client.Port.dll2
+│   │   │   ├── CnCerT.CCdoor.Client.Serverinfor.dll2
+│   │   │   ├── CnCerT.CCdoor.CMD.dll
+│   │   │   ├── CnCerT.CCdoor.CMD.dll2
+│   │   │   ├── CnCerT.CCdoor.CMD.pdb
+│   │   │   ├── CnCerT.CCdoor.FSO.dll
+│   │   │   ├── CnCerT.CCdoor.FSO.dll2
+│   │   │   ├── CnCerT.CCdoor.FSO.pdb
+│   │   │   ├── CnCerT.CCdoor.Remoter.Compress.dll2
+│   │   │   ├── CnCerT.CCdoor.Remoter.MS067.dll2
+│   │   │   └── CnCerT.CCdoor.Remoter.SearchWriter.dll2
+│   │   ├── shell.aspx
+│   │   └── tools
+│   │       ├── dirdown
+│   │       │   └── dirdown.exe
+│   │       └── hashq
+│   │           ├── Hashq.exe
+│   │           └── syconfig.dll
+│   ├── Cknife.jar
+│   ├── C#菜刀后门改版（简单修改）.rar
+│   ├── Hatchet_0402菜刀
+│   │   ├── Hatchet.exe
+│   │   ├── Read me.txt
+│   │   └── tep.jsp
+│   └── 网站爬行 中国菜刀
+│       └── Chinacaidao.rar
+├── cfm
+│   ├── cfmShell.cfm
+│   ├── cmfshell.cmf
+│   ├── ColdFusion.chm
+│   ├── list.cfm
+│   ├── mycode12.cfm
+│   └── xl.cfm
+├── cgi-perl
+│   ├── cgi
+│   │   ├── cgi.pl
+│   │   └── WebShell.cgi
+│   ├── perl_silicl
+│   │   ├── cgi.pl
+│   │   └── 说明.txt
+│   └── Reverse.pl
+├── cmd
+│   ├── cmd2.asp
+│   ├── cmd.asp
+│   ├── cmd.aspx
+│   ├── cmd.cgi
+│   ├── cmd.jsp
+│   ├── cmd.php
+│   └── cmd.pl
+├── Database Mgm
+│   ├── adminer-4.1.0_mysql拖库.php
+│   ├── aspx脱裤
+│   │   ├── mssql2.aspx
+│   │   ├── mssql.aspx
+│   │   ├── mysql.aspx
+│   │   └── test.aspx
+│   ├── faisunsql_v39
+│   │   ├── faisunsql_files
+│   │   │   ├── buttonbg.gif
+│   │   │   ├── faisunsqllogo.gif
+│   │   │   ├── flowchart.gif
+│   │   │   ├── readme.htm
+│   │   │   └── zipclass.php
+│   │   ├── index.php
+│   │   └── readme.txt
+│   ├── import.php
+│   ├── mssql.asp
+│   ├── MSSQL.asp
+│   ├── mssql.aspx
+│   ├── mssqlWEB管理
+│   │   ├── default.asp
+│   │   ├── exit.asp
+│   │   ├── frame.asp
+│   │   ├── help.asp
+│   │   ├── images
+│   │   │   ├── bg.jpg
+│   │   │   ├── dl.gif
+│   │   │   ├── gl.gif
+│   │   │   ├── glxttb.jpg
+│   │   │   ├── Thumbs.db
+│   │   │   └── wz.jpg
+│   │   ├── index.asp
+│   │   ├── left.asp
+│   │   ├── main.asp
+│   │   └── 使用必填.txt
+│   ├── MSSQL控制程序.asp
+│   ├── mysql.aspx
+│   ├── oracle1.jsp
+│   ├── oracle.jsp
+│   ├── oracle.txt
+│   ├── phpwebbackup.php
+│   ├── php整站打包.php
+│   ├── SQL.asp
+│   ├── xx.php
+│   └── 拖库涮库专用WEBSHELL.aspx.txt
+├── Downloader
+│   ├── down2.php
+│   ├── down.asp.asp
+│   └── down.php
+├── FileUpload
+│   └── upload.php
+├── One-Liners
+│   ├── asp_500.asp
+│   ├── bypass_dog.php
+│   ├── Customize.asmx
+│   ├── index2.aspx
+│   ├── jsp一句话jiao4.jsp
+│   ├── jsp一句话tools.txt
+│   ├── lcx.jsp
+│   ├── php90sec一句话
+│   │   ├── 90sec.php
+│   │   ├── LOOKME1.png
+│   │   ├── LOOKME2.png
+│   │   ├── README.txt
+│   │   └── Thumbs.db
+│   ├── rpcs.php
+│   ├── template.asp
+│   ├── tep_一句话升级版.jsp
+│   ├── xlcst常用一句话1.txt
+│   ├── xlcst常用一句话2.txt
+│   ├── Zend
+│   │   ├── mima.txt
+│   │   └── Zend.php
+│   └── 图片_密码xlcst
+│       ├── aaa.jpg.php
+│       ├── asp;.jpg
+│       ├── aspphp.gif
+│       ├── aspphp.jpg
+│       ├── gif头一句话.jpg
+│       ├── phpasp.jpg
+│       └── php.jpg
+├── Others
+│   ├── 12309.php
+│   ├── 403.php
+│   ├── 404.php
+│   ├── 404x (1).php
+│   ├── 404x.php
+│   ├── 4.0.php
+│   ├── 4angel
+│   │   ├── 2013加密.php
+│   │   └── 2013未加密.php
+│   ├── acidshell.php
+│   ├── admin.php
+│   ├── Aiman.png
+│   ├── alucar.PHP_Shell_
+│   │   └── alucar.de.txt
+│   ├── antichat.php
+│   ├── asp
+│   │   ├── data.asp
+│   │   ├── diy.asp
+│   │   ├── H4ck Door.asp
+│   │   ├── help.asp
+│   │   ├── MSSQL语句执行工具asp版.asp
+│   │   ├── xx--小马.asp
+│   │   ├── 不死僵尸.asp
+│   │   ├── 多种组件执行DOS.asp
+│   │   ├── 小马.asp
+│   │   └── 虚拟机提权大马.asp
+│   ├── aspmax
+│   │   ├── ASPda.asp
+│   │   └── kdminy.asp
+│   ├── aspmin
+│   │   ├── aspxiao.jpg
+│   │   └── diy.asp
+│   ├── AspShellBy_aLLiGaToR
+│   │   └── shell.asp
+│   ├── aspx
+│   │   ├── about.aspx
+│   │   ├── Aspx（免杀）.aspx
+│   │   ├── sniffer--aspx嗅探工具.aspx
+│   │   └── webadmin.aspx
+│   ├── aspxmax
+│   │   ├── ASPXmax.aspx
+│   │   ├── seay.aspx
+│   │   └── 拖库涮库专用WEBSHELL.aspx.txt
+│   ├── aspxmin
+│   │   ├── Aspx.aspx
+│   │   ├── aspxxiao.aspx
+│   │   ├── aspx小马.aspx
+│   │   └── Seay命令执行小马.aspx
+│   ├── aspx-shell.aspx
+│   ├── aspx马
+│   │   ├── ashx写一句话
+│   │   │   └── write.txt
+│   │   ├── aspnet_regiis加密的web.config解密工具
+│   │   │   ├── aspnet_regiis加密的web.config解密工具.rar
+│   │   │   └── GetConn.aspx
+│   │   ├── 列目录
+│   │   │   └── dir.aspx
+│   │   ├── 嗅探用
+│   │   │   └── sniffer.aspx
+│   │   ├── 提权用
+│   │   │   ├── aspx.aspx
+│   │   │   ├── ASPXspy2.aspx
+│   │   │   ├── aspxspy.aspx
+│   │   │   ├── ture.jpg
+│   │   │   └── 星外辅助
+│   │   │       └── fuzhu.aspx
+│   │   └── 读取iis密码
+│   │       └── readiis.aspx
+│   ├── asp马
+│   │   ├── asp暴力破解木马
+│   │   │   ├── 5000mima.TXT
+│   │   │   ├── aspLogin.asp
+│   │   │   └── 工具.rar
+│   │   ├── seru提权
+│   │   │   └── serv.asp
+│   │   ├── 下载脚本
+│   │   │   └── down.asp
+│   │   ├── 打包网站
+│   │   │   └── asp.asp
+│   │   ├── 提权大马
+│   │   │   ├── aspmm.asp
+│   │   │   ├── style.asp
+│   │   │   └── system.asp
+│   │   ├── 提权用
+│   │   │   ├── asp.asp
+│   │   │   └── image.asp
+│   │   ├── 操作mssql
+│   │   │   └── mssql.asp
+│   │   ├── 文件打包
+│   │   │   └── backup.asp
+│   │   ├── 查看端口
+│   │   │   └── duankou.asp
+│   │   ├── 登入密码记录
+│   │   │   └── jilu.asp
+│   │   ├── 目录
+│   │   │   ├── 扫描可写
+│   │   │   │   └── scankxdir.asp
+│   │   │   ├── 读写信息
+│   │   │   │   ├── wt.asp
+│   │   │   │   └── 说明.txt
+│   │   │   └── 跨目录
+│   │   │       └── kuddir.asp
+│   │   └── 脱裤
+│   │       └── mssql.asp
+│   ├── b0x (1).asp
+│   ├── b0x.asp
+│   ├── blocker4.cfm
+│   ├── bm (1).php
+│   ├── bm.php
+│   ├── c100.php
+│   ├── c99.php
+│   ├── cgi.php
+│   ├── cmd.asp
+│   ├── cmd.php
+│   ├── CWShellDumper.php
+│   ├── cyb3r_coder_shell.txt
+│   ├── Das.php
+│   ├── ddbb.asp
+│   ├── default.asp
+│   ├── default.aspx
+│   ├── dick.php
+│   ├── ekin0x.php
+│   ├── fr.php
+│   ├── fso.php
+│   ├── galow.asp
+│   ├── google.asp
+│   ├── img.php
+│   ├── include.php
+│   ├── inject_team_shell.txt
+│   ├── jo.php
+│   ├── jsp
+│   │   ├── in.jsp
+│   │   ├── JFolder.jsp
+│   │   ├── job.jsp
+│   │   ├── jspbrowser
+│   │   │   ├── 1.jsp
+│   │   │   ├── 2.jsp
+│   │   │   ├── Browser.jsp
+│   │   │   ├── example-css.css
+│   │   │   ├── gpl.txt
+│   │   │   └── Readme.txt
+│   │   ├── JspSpyJDK5.jsp
+│   │   ├── ma1.jsp
+│   │   ├── ma2.jsp
+│   │   ├── ma3.jsp
+│   │   ├── ma4.jsp
+│   │   ├── no.jsp
+│   │   ├── silic webshell.jsp
+│   │   ├── spjspshell.jsp
+│   │   ├── 常用隐藏SHELL方法.txt
+│   │   ├── 当webshell不可执行cmshell时 （菜刀的安全模式!）可用此脚本突破执行cmd命令.doc
+│   │   ├── 很牛逼的电脑界面马.asp.jpg
+│   │   ├── 【暗月内部工具】webshell爆破工具.rar
+│   │   ├── 老环境 jsp webshell.rar
+│   │   └── 隐身的webshell 密码 admin.php
+│   ├── JSP
+│   │   ├── JspSpy.jsp
+│   │   ├── JspSpy黑客手册专版.rar
+│   │   ├── JSP一句话木马客户端.htm
+│   │   ├── JSP大小马.rar
+│   │   └── 中文版的JSP shell一个 .jpg
+│   ├── jsp版一句话中国菜刀.txt
+│   ├── jsp马
+│   │   ├── bm1.war
+│   │   ├── 一句话
+│   │   │   └── one.jsp
+│   │   ├── 反弹脚本
+│   │   │   └── back.jsp
+│   │   ├── 网站管理
+│   │   │   ├── x.jpg.jsp
+│   │   │   ├── yy.jsp
+│   │   │   └── 超强JSP.jsp
+│   │   └── 脱裤
+│   │       └── JspSpy.jsp
+│   ├── kacak.php
+│   ├── k.php
+│   ├── L0ck3D.html
+│   ├── liz0zim.php
+│   ├── login.php
+│   ├── lo index1.htm
+│   ├── masdef.php
+│   ├── md.php
+│   ├── m.php
+│   ├── mulci_sh3ll.txt
+│   ├── mu.php
+│   ├── perl.php
+│   ├── PHP
+│   │   ├── 404.php
+│   │   ├── 634字节小马.php
+│   │   ├── data.php
+│   │   ├── help.php
+│   │   ├── mysql提权后门.php
+│   │   ├── pass--免杀.php
+│   │   ├── phpspy 2009带MSSQL.php
+│   │   ├── phpspy-中文版.php
+│   │   ├── udf.php
+│   │   ├── 习科404页面小马 ctrl+a出登陆框.php
+│   │   └── 习科 v5.1大马.rar
+│   ├── php_dos_webshell.txt
+│   ├── phpmax
+│   │   ├── 1298252210420.php
+│   │   ├── adminphp.php
+│   │   ├── help.php
+│   │   ├── pass.php
+│   │   ├── phpda.php
+│   │   ├── PHP在线打包解压shell.zip
+│   │   └── 脱裤必备PHP马.rar
+│   ├── phpmin
+│   │   ├── php1.php
+│   │   ├── php.php
+│   │   ├── PHP小马.txt
+│   │   └── 使用方法.txt
+│   ├── php-sh
+│   │   ├── client.py
+│   │   └── server.php
+│   ├── phpweb.php
+│   ├── php 内网信息收集工具
+│   │   └── 1.php
+│   ├── PHP反弹.php
+│   ├── php国外大马4
+│   │   ├── 马1.txt
+│   │   └── 马2.txt
+│   ├── php马
+│   │   ├── COM提权
+│   │   │   └── readme.txt
+│   │   ├── udf提权
+│   │   │   ├── final.php
+│   │   │   ├── mysql.php
+│   │   │   ├── mysqludf
+│   │   │   │   └── mysqludf.dll
+│   │   │   ├── mysqludf.zip
+│   │   │   └── 增加账号和返回远程端口udf.rar
+│   │   ├── 关于嗅探
+│   │   │   └── sniffer.php
+│   │   ├── 扫描目录
+│   │   │   ├── dir.php
+│   │   │   └── sao.php
+│   │   ├── 提权大马
+│   │   │   ├── phpspy.php
+│   │   │   ├── system.php
+│   │   │   ├── testa.php
+│   │   │   └── wokao.php
+│   │   ├── 整站打包
+│   │   │   ├── dabao.php
+│   │   │   ├── phpwebbackup.php
+│   │   │   └── pnbakmysql
+│   │   │       ├── config.inc.php
+│   │   │       ├── data
+│   │   │       │   └── index.htm
+│   │   │       ├── db_mysql.class.php
+│   │   │       ├── db_mysql_error.inc.php
+│   │   │       ├── index.php
+│   │   │       ├── pnbak.css
+│   │   │       ├── pnbak.js
+│   │   │       └── zip.func.php
+│   │   ├── 文件下载
+│   │   │   └── get.php
+│   │   ├── 普通大马
+│   │   │   ├── kankan.txt
+│   │   │   └── php.php
+│   │   ├── 本地mof
+│   │   │   ├── WinMof
+│   │   │   │   ├── mofstop.bat
+│   │   │   │   ├── Readme.txt
+│   │   │   │   └── winmof.php
+│   │   │   └── WinMof.rar
+│   │   ├── 端口反弹
+│   │   │   ├── back.php
+│   │   │   └── change.php
+│   │   ├── 网站批量扫描工具[权重_PR_收录_外链_快照
+│   │   │   ├── moon.bat
+│   │   │   ├── moon.php
+│   │   │   ├── ok.txt
+│   │   │   ├── url.txt
+│   │   │   └── 图.jpg
+│   │   ├── 脱裤
+│   │   │   ├── adminer-3.3.3.php
+│   │   │   ├── mysql.php
+│   │   │   ├── postgresql.php
+│   │   │   └── tuomy&ms.php
+│   │   ├── 读取iis配置
+│   │   │   └── iis.php
+│   │   └── 跨目录拿shell代码
+│   │       ├── 1.php
+│   │       ├── 2.php
+│   │       └── readme.txt
+│   ├── Private-i3lue.php
+│   ├── r00t.php
+│   ├── r57ifx.php
+│   ├── r57.php
+│   ├── r57_sh3ll.txt
+│   ├── rootkit
+│   │   ├── rootkit.asp
+│   │   └── rootkit.rar
+│   ├── safe0ver.php
+│   ├── SBH.php
+│   ├── sby.php
+│   ├── sea.php
+│   ├── secform (2).asp
+│   ├── secForm.asp
+│   ├── Serv-U 6.X 提权脚本.asp
+│   ├── Serv-u.asp
+│   ├── shell (1).php
+│   ├── shell.asp
+│   ├── shellpass.txt
+│   ├── shell.php
+│   ├── Skull (1).asp
+│   ├── Skull.asp
+│   ├── sosyete.php
+│   ├── SQL.php
+│   ├── SSH密码的脚本.php
+│   ├── su.php
+│   ├── sus.php
+│   ├── sym.php
+│   ├── SyRiAn.Sh3ll.V7.php
+│   ├── tryag.php
+│   ├── udf.php
+│   ├── up.asp
+│   ├── upload.php
+│   ├── upl.php
+│   ├── vik22.php
+│   ├── well.aspx
+│   ├── wolf.aspx
+│   ├── wos.php
+│   ├── wp.php
+│   ├── wso.php
+│   ├── yijuhua.php
+│   ├── z77.php
+│   ├── 免杀读reg
+│   │   └── reg.aspx
+│   ├── 可读写目录探测webshell
+│   │   ├── checkacl
+│   │   │   ├── checkacl.exe
+│   │   │   └── checkacl使用说明.doc
+│   │   ├── GetACL.aspx
+│   │   ├── PHP 搜索可读可写目录脚本.php
+│   │   ├── 从注册表中读存在路径.aspx
+│   │   ├── 啊D小工具 - 目录读写检测 [ASP版]说明.txt
+│   │   └── 很好用的扫可读可写目录asp脚本xwdir.asp
+│   ├── 同服嗅探马
+│   │   ├── sninffer.aspx
+│   │   ├── websniff.aspx
+│   │   └── 利用php来嗅探劫持服务器数据.php
+│   ├── 国外php
+│   │   └── r57.php
+│   ├── 土司asp免杀版
+│   │   ├── asp木马.asp
+│   │   ├── hb.asp
+│   │   ├── t00ls未加密版.asp
+│   │   ├── x.asp
+│   │   ├── yb.asp
+│   │   ├── 土司免杀版.asp
+│   │   ├── 复件 x.asp
+│   │   ├── 微型简化防删版.asp
+│   │   ├── 经典大马.asp
+│   │   ├── 菊花asp木马2.png
+│   │   ├── 菊花asp木马.png
+│   │   ├── 菊花马.asp
+│   │   └── 防杀锁定未加密版.asp
+│   ├── 失传的明文spaider.php
+│   ├── 星外.aspx
+│   ├── 最华丽.php
+│   └── 记录后台管理登入密码webshell
+│       ├── asp
+│       │   ├── resive.txt
+│       │   └── send.txt
+│       └── PHP
+│           ├── js.txt
+│           └── recv.txt
+├── PrivEsc
+│   └── asp
+│       └── Wscript提权.asp
+├── README.md
+├── Recon
+│   ├── asp
+│   │   ├── aspcheck.asp
+│   │   └── aspSysCheck.asp
+│   ├── aspSysCheck.aspx
+│   ├── aspx嗅探服务器
+│   │   ├── 1.aspx
+│   │   ├── aspx嗅探服务器 - 副本.aspx
+│   │   └── QQ图片20140112123853.jpg
+│   ├── php
+│   │   ├── index.php
+│   │   └── php.php
+│   └── 扫FTP MYSQL MSSQL SSH密码的PHP脚本.php
+├── tree.txt
+└── war
+    ├── icesword.war
+    ├── msf_war.txt
+    ├── README.md
+    ├── template.war
+    └── test3693.war
+
+128 directories, 514 files

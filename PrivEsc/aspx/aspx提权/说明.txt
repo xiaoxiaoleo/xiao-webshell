@@ -1,0 +1,5 @@
+要支持aspx才行
+默认情况下上传0day.aspx和churrasco.exe，网页执行0day.aspx即可
+如果net和net1被删除就要用到脚本了
+文本net user web web /add要改成要执行的脚本文件路径
+如c:/inetpub/wwwroot/add.vbs
