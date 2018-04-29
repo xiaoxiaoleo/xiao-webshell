@@ -4,6 +4,8 @@
 
 - https://github.com/keepwn/Altman
 - https://github.com/Chora10/Cknife
+- https://github.com/antoor/antSword/releases
+- https://github.com/WangYihang/Webshell-Sniper
 
 #### webshell collections repos
 
